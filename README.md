@@ -1,29 +1,43 @@
 # CV_Example
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## Maria Camila Roa Ruiz
+**Profesión:** _Teconologo de Analisis y Desarollo de Software_
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- **Email:** (camila.ruixlx@gmail.com)
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
+### **SENA** _(2025 - Actualidad)_
+- Programadora.
+ 
+### **** _(2024 - 2024)_
+- Mantenimiento de equipos de computo.
 
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+### **Federacion Nacional de Departamentos** _(2021 - 2024)_
+- Apoyo a la gestion
+- me encargaba de mesa de ayuda, eventos, mantenimiento de equipos de los funcionarios, 
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### **SENA** _(2025 - Actualidad)_
+- Progamadora.
+
+### **SENA** _(2021 - 2022)_
+- Tecnico en Sistemas.
+
+### **Colegio Ofelia Uribe de Acosta** _(2014 - 2018)_
+- Bachiller.
+ 
+
 
 ## 💡 Habilidades
 - **Habilidad 1**
+- manejo de photoshop
 - **Habilidad 2**
+- Dibujar, bailar
 - **Habilidad 3**
+- Manejo de python
+  
 
 ---
 
