@@ -25,7 +25,7 @@
 ### **SENA** _(2021 - 2022)_
 - Tecnico en Sistemas.
 
-### **Colegio Ofelia Uribe de Acosta** _(2014 - 2018)_
+### **Colegio Ofelia Uribe de Acosta** _(2015 - 2020)_
 - Bachiller.
  
 
