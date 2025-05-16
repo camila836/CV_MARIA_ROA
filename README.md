@@ -11,7 +11,7 @@
 ### **SENA** _(2025 - Actualidad)_
 - Programadora.
  
-### **** _(2024 - 2024)_
+### **tienda de mantenimiento** _(2024 - 2024)_
 - Mantenimiento de equipos de computo.
 
 ### **Federacion Nacional de Departamentos** _(2021 - 2024)_
