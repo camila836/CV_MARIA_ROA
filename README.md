@@ -5,7 +5,7 @@
 **Profesión:** _Teconologo de Analisis y Desarollo de Software_
 
 ## 📞 Contacto
-- **Email:** (camila.ruixlx@gmail.com)
+- **Email:** (camila.ruizlx@gmail.com)
 
 ## 🏢 Experiencia Laboral
 ### **SENA** _(2025 - Actualidad)_
